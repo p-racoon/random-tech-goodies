@@ -19,3 +19,4 @@ Instead of bookmarking stuff I thought it would be a good idea to just publicly 
 - A dev.to course on X-State https://dev.to/ekafyi/hello-xstate-learning-state-machines-for-frontend-web-development-5bin
   - https://egghead.io/courses/introduction-to-state-machines-using-xstate
   - https://egghead.io/courses/construct-sturdy-uis-with-xstate
+- Overload of Tech References in here https://dev.to/pb/10-github-repositories-every-developer-should-know-ngm
