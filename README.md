@@ -20,3 +20,13 @@ Instead of bookmarking stuff I thought it would be a good idea to just publicly 
   - https://egghead.io/courses/introduction-to-state-machines-using-xstate
   - https://egghead.io/courses/construct-sturdy-uis-with-xstate
 - Overload of Tech References in here https://dev.to/pb/10-github-repositories-every-developer-should-know-ngm
+- Interview Prep (typically frontend)
+  - Tech Interview Handbook https://yangshun.github.io/tech-interview-handbook/
+  - Frontend Interview Handbook https://yangshun.github.io/front-end-interview-handbook/
+  - React JS interview Questions https://github.com/sudheerj/reactjs-interview-questions#what-is-react
+  - Toptal's React Interview Questions https://www.toptal.com/react/interview-questions
+  - 30 seconds of code https://www.30secondsofcode.org/ Seems like a pretty good resource if you have to learn small but cool stuff.
+  - Coding Interview University https://github.com/jwasham/coding-interview-university
+  - React coding challenges https://github.com/alexgurr/react-coding-challenges/
+- Build your own x https://github.com/danistefanovic/build-your-own-x Pretty interested in building my own library
+- Awesome stuff on web https://github.com/sindresorhus/awesome
