@@ -30,3 +30,5 @@ Instead of bookmarking stuff I thought it would be a good idea to just publicly 
   - React coding challenges https://github.com/alexgurr/react-coding-challenges/
 - Build your own x https://github.com/danistefanovic/build-your-own-x Pretty interested in building my own library
 - Awesome stuff on web https://github.com/sindresorhus/awesome
+- Google's amazing  Web Resource https://web.dev/learn/
+- Google's `web.dev` React learning resource https://web.dev/react/
