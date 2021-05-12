@@ -32,3 +32,6 @@ Instead of bookmarking stuff I thought it would be a good idea to just publicly 
 - Awesome stuff on web https://github.com/sindresorhus/awesome
 - Google's amazing  Web Resource https://web.dev/learn/
 - Google's `web.dev` React learning resource https://web.dev/react/
+- Handle Long Lists in React https://web.dev/virtualize-long-lists-react-window/
+- `react-window` library that allows large lists to be rendered efficiently in React https://react-window.now.sh/#/examples/list/fixed-size
+
