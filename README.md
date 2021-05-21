@@ -35,3 +35,4 @@ Instead of bookmarking stuff I thought it would be a good idea to just publicly 
 - Handle Long Lists in React https://web.dev/virtualize-long-lists-react-window/
 - `react-window` library that allows large lists to be rendered efficiently in React https://react-window.now.sh/#/examples/list/fixed-size
 - Amazing use of useRef via increment counter Example: https://stackoverflow.com/questions/53395147/use-react-hook-to-implement-a-self-increment-counter
+- Kent C dodds again for open source https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me
