@@ -31,4 +31,21 @@ Instead of bookmarking stuff I thought it would be a good idea to just publicly 
 - [Ryan Floence's talk on Compound Components](https://www.youtube.com/watch?v=hEGg-3pIHlE)
 - [Atomic CSS-in-Js](https://sebastienlorber.com/atomic-css-in-js)
 - [Pub/Sub Pattern in React](https://dev.to/avinash8847/publisher-subscriber-pattern-in-react-js-42h8) (Unread)
-- 
+- Overload of Tech References in here https://dev.to/pb/10-github-repositories-every-developer-should-know-ngm
+- Interview Prep (typically frontend)
+  - Tech Interview Handbook https://yangshun.github.io/tech-interview-handbook/
+  - Frontend Interview Handbook https://yangshun.github.io/front-end-interview-handbook/
+  - React JS interview Questions https://github.com/sudheerj/reactjs-interview-questions#what-is-react
+  - Toptal's React Interview Questions https://www.toptal.com/react/interview-questions
+  - 30 seconds of code https://www.30secondsofcode.org/ Seems like a pretty good resource if you have to learn small but cool stuff.
+  - Coding Interview University https://github.com/jwasham/coding-interview-university
+  - React coding challenges https://github.com/alexgurr/react-coding-challenges/
+- Build your own x https://github.com/danistefanovic/build-your-own-x Pretty interested in building my own library
+- Awesome stuff on web https://github.com/sindresorhus/awesome
+- Google's amazing  Web Resource https://web.dev/learn/
+- Google's `web.dev` React learning resource https://web.dev/react/
+- Handle Long Lists in React https://web.dev/virtualize-long-lists-react-window/
+- `react-window` library that allows large lists to be rendered efficiently in React https://react-window.now.sh/#/examples/list/fixed-size
+- Amazing use of useRef via increment counter Example: https://stackoverflow.com/questions/53395147/use-react-hook-to-implement-a-self-increment-counter
+- Kent C dodds again for open source https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me
+
