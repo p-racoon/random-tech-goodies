@@ -48,4 +48,5 @@ Instead of bookmarking stuff I thought it would be a good idea to just publicly 
 - `react-window` library that allows large lists to be rendered efficiently in React https://react-window.now.sh/#/examples/list/fixed-size
 - Amazing use of useRef via increment counter Example: https://stackoverflow.com/questions/53395147/use-react-hook-to-implement-a-self-increment-counter
 - Kent C dodds again for open source https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me
-
+- WEbGL opens ource academy http://www.webglacademy.com/ (unread)
+- Typescript Deep Dive https://basarat.gitbook.io/typescript/ (unread, seems super promising)
