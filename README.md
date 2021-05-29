@@ -19,6 +19,18 @@ Instead of bookmarking stuff I thought it would be a good idea to just publicly 
 - A dev.to course on X-State https://dev.to/ekafyi/hello-xstate-learning-state-machines-for-frontend-web-development-5bin
   - https://egghead.io/courses/introduction-to-state-machines-using-xstate
   - https://egghead.io/courses/construct-sturdy-uis-with-xstate
+- CSS values and units, a good reference for em, rem, etc. https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units
+- Amazing forms and good practices by Google https://developers.google.com/web/fundamentals/design-and-ux/input/forms
+- Formik Validations https://formik.org/docs/guides/validation
+- Accessibility doc by react https://reactjs.org/docs/accessibility.html
+- Autofill Article/Help by Google [Help users checkout faster with Autofill](https://developers.google.com/web/updates/2015/06/checkout-faster-with-autofill#:~:text=Autocomplete%20attributes%20are%20a%20way,%3D%22address%2Dline1%22%20.)
+- Event pooling update by React [Event Pooling](https://reactjs.org/docs/legacy-event-pooling.html) 
+- [Storybook for react Tutorial](https://storybook.js.org/tutorials/intro-to-storybook/react/en/get-started/) (Unread)
+- Presentation by FB guy Christopher Chedeau "vjeux" [React CSS-in-JS](https://speakerdeck.com/vjeux/react-css-in-js) (Looks super promising)
+- [Compound Components in React](https://blog.bitsrc.io/understanding-compound-components-in-react-23c4b84535b5)
+- [Ryan Floence's talk on Compound Components](https://www.youtube.com/watch?v=hEGg-3pIHlE)
+- [Atomic CSS-in-Js](https://sebastienlorber.com/atomic-css-in-js)
+- [Pub/Sub Pattern in React](https://dev.to/avinash8847/publisher-subscriber-pattern-in-react-js-42h8) (Unread)
 - Overload of Tech References in here https://dev.to/pb/10-github-repositories-every-developer-should-know-ngm
 - Interview Prep (typically frontend)
   - Tech Interview Handbook https://yangshun.github.io/tech-interview-handbook/
