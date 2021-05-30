@@ -19,18 +19,6 @@ Instead of bookmarking stuff I thought it would be a good idea to just publicly 
 - A dev.to course on X-State https://dev.to/ekafyi/hello-xstate-learning-state-machines-for-frontend-web-development-5bin
   - https://egghead.io/courses/introduction-to-state-machines-using-xstate
   - https://egghead.io/courses/construct-sturdy-uis-with-xstate
-- CSS values and units, a good reference for em, rem, etc. https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units
-- Amazing forms and good practices by Google https://developers.google.com/web/fundamentals/design-and-ux/input/forms
-- Formik Validations https://formik.org/docs/guides/validation
-- Accessibility doc by react https://reactjs.org/docs/accessibility.html
-- Autofill Article/Help by Google [Help users checkout faster with Autofill](https://developers.google.com/web/updates/2015/06/checkout-faster-with-autofill#:~:text=Autocomplete%20attributes%20are%20a%20way,%3D%22address%2Dline1%22%20.)
-- Event pooling update by React [Event Pooling](https://reactjs.org/docs/legacy-event-pooling.html) 
-- [Storybook for react Tutorial](https://storybook.js.org/tutorials/intro-to-storybook/react/en/get-started/) (Unread)
-- Presentation by FB guy Christopher Chedeau "vjeux" [React CSS-in-JS](https://speakerdeck.com/vjeux/react-css-in-js) (Looks super promising)
-- [Compound Components in React](https://blog.bitsrc.io/understanding-compound-components-in-react-23c4b84535b5)
-- [Ryan Floence's talk on Compound Components](https://www.youtube.com/watch?v=hEGg-3pIHlE)
-- [Atomic CSS-in-Js](https://sebastienlorber.com/atomic-css-in-js)
-- [Pub/Sub Pattern in React](https://dev.to/avinash8847/publisher-subscriber-pattern-in-react-js-42h8) (Unread)
 - Overload of Tech References in here https://dev.to/pb/10-github-repositories-every-developer-should-know-ngm
 - Interview Prep (typically frontend)
   - Tech Interview Handbook https://yangshun.github.io/tech-interview-handbook/
@@ -44,29 +32,12 @@ Instead of bookmarking stuff I thought it would be a good idea to just publicly 
 - Awesome stuff on web https://github.com/sindresorhus/awesome
 - Google's amazing  Web Resource https://web.dev/learn/
 - Google's `web.dev` React learning resource https://web.dev/react/
+- Virtualizing long lists in react https://web.dev/virtualize-long-lists-react-window/
 - Handle Long Lists in React https://web.dev/virtualize-long-lists-react-window/
 - `react-window` library that allows large lists to be rendered efficiently in React https://react-window.now.sh/#/examples/list/fixed-size
 - Amazing use of useRef via increment counter Example: https://stackoverflow.com/questions/53395147/use-react-hook-to-implement-a-self-increment-counter
-- Kent C dodds again for open source https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me
-- WEbGL opens ource academy http://www.webglacademy.com/ (unread)
-- Typescript Deep Dive https://basarat.gitbook.io/typescript/ (unread, seems super promising)
-- How to Modal? https://modalzmodalzmodalz.com/ 
-- Amazing gradient animation with images I particularly liked the image blending one https://sarcadass.github.io/granim.js/examples.html
-- A good looking css library https://evergreen.segment.com/
-- Neumorph generator https://neumorphism.io/#e0e0e0
-- Background genrator https://wweb.dev/resources/animated-css-background-generator/
-- A fullblown windows in here damn http://www.windows93.net/ 
-- Damn a macintosh.js https://github.com/felixrieseberg/macintosh.js?ref=producthunt
-- Windows 7 UI https://khang-nd.github.io/7.css
-- Windows XP UI https://botoxparty.github.io/XP.css/
-- Windows 98 ui https://jdan.github.io/98.css
-- Clip your images https://bennettfeely.com/clippy/
-- Fancy Border radius https://9elements.github.io/fancy-border-radius
-- Glitch Effect https://tympanus.net/Tutorials/CSSGlitchEffect/ + https://tympanus.net/codrops/2017/12/21/css-glitch-effect/
-- Splitting effect https://splitting.js.org/
-- MAgzine like pages https://www.dan-davies.co.uk/print-to-css
-- Every layout explained https://every-layout.dev/layouts/
-- Hover effects https://ciar4n.com/izmir/
-- Isometric SASS 2d animation https://morgancaron.github.io/IsometricSass/
-- Augmented UI Cyberpunk like https://github.com/propjockey/augmented-ui
+- Webpack Core Consepts https://webpack.js.org/concepts/
+- Multiversion react application https://betterprogramming.pub/6-steps-to-create-a-multi-version-react-application-1c3e5b5df7e9 (unread)
+- Learn in public https://gist.github.com/sw-yx/9720bd4a30606ca3ffb8d407113c0fe5
+- Looks promising for laravel https://laracasts.com/series/laravel-8-from-scratch/episodes/1
 - 
