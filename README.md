@@ -50,3 +50,11 @@ Instead of bookmarking stuff I thought it would be a good idea to just publicly 
 - Kent C dodds again for open source https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me
 - WEbGL opens ource academy http://www.webglacademy.com/ (unread)
 - Typescript Deep Dive https://basarat.gitbook.io/typescript/ (unread, seems super promising)
+- How to Modal? https://modalzmodalzmodalz.com/ 
+- Amazing gradient animation with images I particularly liked the image blending one https://sarcadass.github.io/granim.js/examples.html
+- A good looking css library https://evergreen.segment.com/
+- Neumorph generator https://neumorphism.io/#e0e0e0
+- Background genrator https://wweb.dev/resources/animated-css-background-generator/
+- A fullblown windows in here damn http://www.windows93.net/ 
+- Damn a macintosh.js https://github.com/felixrieseberg/macintosh.js?ref=producthunt
+- 
