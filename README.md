@@ -57,4 +57,16 @@ Instead of bookmarking stuff I thought it would be a good idea to just publicly 
 - Background genrator https://wweb.dev/resources/animated-css-background-generator/
 - A fullblown windows in here damn http://www.windows93.net/ 
 - Damn a macintosh.js https://github.com/felixrieseberg/macintosh.js?ref=producthunt
+- Windows 7 UI https://khang-nd.github.io/7.css
+- Windows XP UI https://botoxparty.github.io/XP.css/
+- Windows 98 ui https://jdan.github.io/98.css
+- Clip your images https://bennettfeely.com/clippy/
+- Fancy Border radius https://9elements.github.io/fancy-border-radius
+- Glitch Effect https://tympanus.net/Tutorials/CSSGlitchEffect/ + https://tympanus.net/codrops/2017/12/21/css-glitch-effect/
+- Splitting effect https://splitting.js.org/
+- MAgzine like pages https://www.dan-davies.co.uk/print-to-css
+- Every layout explained https://every-layout.dev/layouts/
+- Hover effects https://ciar4n.com/izmir/
+- Isometric SASS 2d animation https://morgancaron.github.io/IsometricSass/
+- Augmented UI Cyberpunk like https://github.com/propjockey/augmented-ui
 - 
