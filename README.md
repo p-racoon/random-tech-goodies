@@ -74,3 +74,4 @@ Instead of bookmarking stuff I thought it would be a good idea to just publicly 
 - Multiversion react application https://betterprogramming.pub/6-steps-to-create-a-multi-version-react-application-1c3e5b5df7e9 (unread)
 - Learn in public https://gist.github.com/sw-yx/9720bd4a30606ca3ffb8d407113c0fe5
 - Looks promising for laravel https://laracasts.com/series/laravel-8-from-scratch/episodes/1
+- Music Visualizers https://github.com/willianjusten/awesome-audio-visualization
