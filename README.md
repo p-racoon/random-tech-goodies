@@ -77,3 +77,4 @@ Instead of bookmarking stuff I thought it would be a good idea to just publicly 
 - Music Visualizers https://github.com/willianjusten/awesome-audio-visualization
 - Not a WYSIWIG but not a plain markdown editor either https://readme.so/
 - System Design open course https://github.com/donnemartin/system-design-primer
+- Lifetime Domains for crypto web https://unstoppabledomains.com/
