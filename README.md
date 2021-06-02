@@ -76,3 +76,4 @@ Instead of bookmarking stuff I thought it would be a good idea to just publicly 
 - Looks promising for laravel https://laracasts.com/series/laravel-8-from-scratch/episodes/1
 - Music Visualizers https://github.com/willianjusten/awesome-audio-visualization
 - Not a WYSIWIG but not a plain markdown editor either https://readme.so/
+- System Design open course https://github.com/donnemartin/system-design-primer
