@@ -83,3 +83,4 @@ Instead of bookmarking stuff I thought it would be a good idea to just publicly 
 - Chasing the pixel perfect dream https://www.joshwcomeau.com/css/pixel-perfection/ (unread)
 - Codewars for code practice https://www.codewars.com/
 - amazing walkthrough of an amazing blog https://www.joshwcomeau.com/blog/how-i-built-my-blog/
+- Code Practice at HackerEarth https://www.hackerearth.com/practice
