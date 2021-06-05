@@ -78,3 +78,4 @@ Instead of bookmarking stuff I thought it would be a good idea to just publicly 
 - Not a WYSIWIG but not a plain markdown editor either https://readme.so/
 - System Design open course https://github.com/donnemartin/system-design-primer
 - Lifetime Domains for crypto web https://unstoppabledomains.com/
+- Frontend practice to practice Frontend like a an artist, by copying art https://www.frontendpractice.com/
