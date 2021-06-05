@@ -82,3 +82,4 @@ Instead of bookmarking stuff I thought it would be a good idea to just publicly 
 - Opens ource for first timers https://www.firsttimersonly.com/ (unread)
 - Chasing the pixel perfect dream https://www.joshwcomeau.com/css/pixel-perfection/ (unread)
 - Codewars for code practice https://www.codewars.com/
+- amazing walkthrough of an amazing blog https://www.joshwcomeau.com/blog/how-i-built-my-blog/
