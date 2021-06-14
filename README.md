@@ -85,3 +85,4 @@ Instead of bookmarking stuff I thought it would be a good idea to just publicly 
 - amazing walkthrough of an amazing blog https://www.joshwcomeau.com/blog/how-i-built-my-blog/
 - Code Practice at HackerEarth https://www.hackerearth.com/practice
 - Change only the CSS to learn CSS https://stylestage.dev/
+- Bbel Video page https://babeljs.io/videos
