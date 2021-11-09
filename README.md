@@ -90,3 +90,4 @@ Instead of bookmarking stuff I thought it would be a good idea to just publicly 
 - List of amazing github profiles https://github.com/abhisheknaiidu/awesome-github-profile-readme
 - Github profile generator https://github.com/rahuldkjain/github-profile-readme-generator
 - When performance is not the actual concern. Performance Rant https://ericlippert.com/2012/12/17/performance-rant/
+- Amazing Promises Article: https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html
