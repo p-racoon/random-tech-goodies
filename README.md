@@ -92,3 +92,6 @@ Instead of bookmarking stuff I thought it would be a good idea to just publicly 
 - When performance is not the actual concern. Performance Rant https://ericlippert.com/2012/12/17/performance-rant/
 - Amazing Promises Article: https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html
 - Resume Action Verbs https://zety.com/blog/resume-action-words#assist
+- System ui Theme Specification https://system-ui.com/theme/
+- Cssstats to know what all CSS is in place https://www.npmjs.com/package/cssstats lib: https://www.npmjs.com/package/cssstats
+- 
